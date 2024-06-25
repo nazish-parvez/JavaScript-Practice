@@ -37,3 +37,11 @@ console.log(`Modulus of a = ${a} % b = ${b} ==== ${modulus}`);
 
 
 // Increment
+
+const increment = a++;
+console.log(`Increment of a = ${increment} ==== ${a}`);
+
+// Decrement
+
+const decrement = a--;
+console.log(`Decrement of a = ${decrement} ==== ${a}`);
