@@ -13,7 +13,7 @@ console.log("AdditionAssignmentOperator = ", AdditionAssignmentOperator); //Outp
 // Subtraction Assignment Operator
 
 let SubtractionAssignmentOperator = 6;
-SubtractionAssignmentOperator -= 2; // SubtractionAssignmentOperator = SubtractionAssignmentOperator -2;
+SubtractionAssignmentOperator -= 2; // SubtractionAssignmentOperator = SubtractionAssignmentOperator - 2;
 console.log("SubtractionAssignmentOperator = ", SubtractionAssignmentOperator); // Output ---- 4
 
 // Multiplication Assignment Operator
