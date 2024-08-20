@@ -1,4 +1,1 @@
 # JavaScript-Practice
-..
-aa
-aaa
