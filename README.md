@@ -1,2 +1,2 @@
 # JavaScript-Practice
-1
+12
