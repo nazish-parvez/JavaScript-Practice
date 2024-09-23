@@ -1,2 +1,2 @@
 # JavaScript-Practice
-12345
+123456
