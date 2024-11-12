@@ -52,8 +52,4 @@ console.log("RemainderAssignmentOperator = ", RemainderAssignmentOperator); // O
 let RemainderAssignmentOperator = 12;
 RemainderAssignmentOperator %= 6; // RemainderAssignmentOperator = RemainderAssignmentOperator % 6;
 console.log("RemainderAssignmentOperator = ", RemainderAssignmentOperator); // Output ---- 0
-// Modulus (Remainder) Assignment Operator
 
-let RemainderAssignmentOperator = 12;
-RemainderAssignmentOperator %= 6; // RemainderAssignmentOperator = RemainderAssignmentOperator % 6;
-console.log("RemainderAssignmentOperator = ", RemainderAssignmentOperator); // Output ---- 0
