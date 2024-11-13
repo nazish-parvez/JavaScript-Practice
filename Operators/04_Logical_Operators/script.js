@@ -88,4 +88,9 @@
   let b = !(10 < 5); // true
   console.log(a); // False
   console.log(b); // True
+}{
+  let a = 10 < 5; // false
+  let b = !(10 < 5); // true
+  console.log(a); // False
+  console.log(b); // True
 }
